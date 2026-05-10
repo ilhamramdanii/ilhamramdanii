@@ -30,8 +30,3 @@
 ![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhamramdanii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamramdanii&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
